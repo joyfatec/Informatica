@@ -7,6 +7,6 @@ https://fatecspgov-my.sharepoint.com/:u:/g/personal/maria_nascimento50_fatec_sp_
 ![image](https://github.com/user-attachments/assets/3aee0799-3510-4c97-85ff-7fd306097606)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #3 Power BI ATV2 com a Maria Eduarda
-https://teams.microsoft.com/l/message/19:cd68e12a-39ee-4d0b-aa7b-449c6d3bda6e_eb0e9c29-cfb4-4409-899c-81a6e6ba5110@unq.gbl.spaces/1744203547307?context=%7B%22contextType%22%3A%22chat%22%7D
+https://app.powerbi.com/links/_0TAQH23HG?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 ![image](https://github.com/user-attachments/assets/71fda173-e974-4280-afed-cddcf1526173)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
