@@ -18,7 +18,8 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_
 ![image](https://github.com/user-attachments/assets/2620c6c0-ac50-434c-a884-cf9b6174b660)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #6 Regressão linear: Excel e Machine Learning
-**Projeto 1:** (Excel)[https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF168.A753.N.077.146.20251/Student%20Work/Working%20files/JOYCE%20FERNANDES%20DA%20SILVA%20HONORIO/Regress%C3%A3o%20linear_%20Excel%20e%20Machine%20Learning/Ice%20Cream2025.xlsx?d=w2529af0f92d045458447d91dac196ad0&csf=1&web=1&e=3M8oFd]
+**Projeto 1:**
+(Excel)[https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF168.A753.N.077.146.20251/Student%20Work/Working%20files/JOYCE%20FERNANDES%20DA%20SILVA%20HONORIO/Regress%C3%A3o%20linear_%20Excel%20e%20Machine%20Learning/Ice%20Cream2025.xlsx?d=w2529af0f92d045458447d91dac196ad0&csf=1&web=1&e=3M8oFd]
 (Google collab)[https://colab.research.google.com/drive/1hNAXuHfLzmoR5GJMR2yTGOwBDfmY9MEr?authuser=1&pli=1#scrollTo=h_lGhKFTmOTT]
 
 **Projeto 2**
