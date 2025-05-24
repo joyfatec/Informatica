@@ -10,8 +10,7 @@ joyce # Informatica
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #3 Power BI ATV1 com a Maria Eduarda
 
-[Power BI]
-(https://app.powerbi.com/links/J_uhG9sDmK?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
+[Power BI](https://app.powerbi.com/links/J_uhG9sDmK?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
 
 ![image](https://github.com/user-attachments/assets/3aee0799-3510-4c97-85ff-7fd306097606)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
