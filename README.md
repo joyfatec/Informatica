@@ -36,7 +36,13 @@ joyce # Informatica
 
 **Projeto 2**
 
-[Excel](https://fatecspgov-my.sharepoint.com/:x:/r/personal/joyce_honorio_fatec_sp_gov_br/Documents/Pasta.xlsx?d=w5953a8cb7f8b471fa301509f5a23512b&csf=1&web=1&e=sfwPdW)
+[Excel e Respostas das perguntas](https://fatecspgov-my.sharepoint.com/:x:/r/personal/joyce_honorio_fatec_sp_gov_br/Documents/Pasta.xlsx?d=w5953a8cb7f8b471fa301509f5a23512b&csf=1&web=1&e=sfwPdW)
 
 [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=_6OGqCMJu00L)
+
+**Projeto 3**
+
+Power bi
+
+Google Collab
 
