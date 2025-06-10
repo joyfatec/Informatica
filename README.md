@@ -22,11 +22,13 @@ joyce # Informatica
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #5 Planilha Excel
 
+
 [Dados ProUni](https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/DADOSPROUNI%201.xlsx?d=w22a9cd47e4bd47b3bc70a95549b06805&csf=1&web=1&e=VGrWKO)
 
 ![image](https://github.com/user-attachments/assets/2620c6c0-ac50-434c-a884-cf9b6174b660)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #6 Regressão linear: Excel e Machine Learning
+>Proposta da atividade: Desenvolver e aplicar a Regressão Linear com os dados fornecidos nos link enviados pela professora utilizando as ferramentas Ecxel e Linguagem Python no Google Colab.
 
 **Projeto 1:**
 
@@ -39,10 +41,14 @@ joyce # Informatica
 [Excel e Respostas das perguntas](https://fatecspgov-my.sharepoint.com/:x:/r/personal/joyce_honorio_fatec_sp_gov_br/Documents/Pasta.xlsx?d=w5953a8cb7f8b471fa301509f5a23512b&csf=1&web=1&e=sfwPdW)
 
 [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=_6OGqCMJu00L)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+#7 Power Automate e Power Apps
+>Proposta da atividade: Elaborar um aplicativo, usando o Power Apps, por meio do qual seja possível cadastrar CLIENTE, FORNECEDOR  e ORDEM DE PRODUÇÃO, de acordo com o link disponibilizado pela professora.
 
-**Projeto 3**
+**Power Apps**
 
-Power bi
+[Link do Aplicativo](https://apps.powerapps.com/play/e/5ad9ca69-6a4e-ec7e-8e88-bd3c6254c0e4/a/612fc43e-365a-444c-a38d-c9b1e0c6b644?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=0ad79be2-263f-4ba3-b22c-22283f5484cf&sourcetime=1749594152127)
 
-Google Collab
+**Gravação do Aplicativo**
+
 
