@@ -8,7 +8,7 @@ joyce # Informatica
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #2 Planilha de gastos
 >Proposta da atividade: Montar uma planilha dos principais gastos que temos em casa.
-- Essa atividade foi feita durante a aluna com o aluno Matheus Amaral Costa.
+- Essa atividade foi feita durante a aula com o aluno Matheus Amaral Costa.
 
 ![image](https://github.com/user-attachments/assets/8ca2ba10-9331-499a-896d-5fc2319b2904)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
