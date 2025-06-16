@@ -1,6 +1,6 @@
 joyce # Informatica
 
-#1 apresentaão pessoal em grupo
+#1 apresentação pessoal em grupo
 >Proposta da atividade: Se juntar aos colegas e preparar uma apresentação em slides sobre si mesmo para a sala, apresentando 3 tópicos diferentes.
 
 ![image](https://github.com/user-attachments/assets/d240b1d7-90e2-40ba-b243-e2589dd64567)
