@@ -14,7 +14,7 @@ joyce # Informatica
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #3 Usando fórmulas e dados abertos
 >Proposta da atividade: Montar um Dashboard com dados abertos, montando graficos diferentes.
-- Essa atividade foi feita em conjunto com a aula Maria Eduarda Silva Nascimento e foi entregue pelo teams dela com o nome das duas alunas.
+- Essa atividade foi feita em conjunto com a aluna Maria Eduarda Silva Nascimento e foi entregue pelo teams dela com o nome das duas alunas.
 
 [Power BI](https://app.powerbi.com/links/J_uhG9sDmK?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
 
