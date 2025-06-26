@@ -68,5 +68,10 @@ joyce # Informatica
 ![image](https://github.com/user-attachments/assets/df159643-497d-471c-a90b-80faa4fc6f1c)
 
 -Gravação do funcionamento do app:
-"C:\Users\Fatec\Videos\Gravação do aplicativo de metadados.mp4"
+**não foi possível adicionar a gravação feita então a aluna decidiu tirar alguns prints do aplicativo**
+![image](https://github.com/user-attachments/assets/b6c64d1e-1280-4038-96cd-8af838c5e6b6)
+![image](https://github.com/user-attachments/assets/96257a9a-c6e6-4bad-97b6-d83cfb1723ee)
+![image](https://github.com/user-attachments/assets/4ff5b005-a1df-40a0-ac7c-afe3e068f50a)
+![image](https://github.com/user-attachments/assets/ddbe7cb3-5979-467d-b164-0fded385b431)
+
 
