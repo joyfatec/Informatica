@@ -64,14 +64,16 @@ joyce # Informatica
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #PROVA A2- 26/06/2025
 > Alicativo com dados sobre Metadados de produção de óleo e gás
+
 -Prompt:
 ![image](https://github.com/user-attachments/assets/df159643-497d-471c-a90b-80faa4fc6f1c)
 
--Gravação do funcionamento do app:
-**não foi possível adicionar a gravação feita então a aluna decidiu tirar alguns prints do aplicativo**
+-Gravação e imagens do funcionamento do app:
+
 ![image](https://github.com/user-attachments/assets/b6c64d1e-1280-4038-96cd-8af838c5e6b6)
 ![image](https://github.com/user-attachments/assets/96257a9a-c6e6-4bad-97b6-d83cfb1723ee)
 ![image](https://github.com/user-attachments/assets/4ff5b005-a1df-40a0-ac7c-afe3e068f50a)
 ![image](https://github.com/user-attachments/assets/ddbe7cb3-5979-467d-b164-0fded385b431)
 
+[Gravando 2025-06-26 210641.zip](https://github.com/user-attachments/files/20935427/Gravando.2025-06-26.210641.zip)
 
