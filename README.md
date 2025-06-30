@@ -66,10 +66,11 @@ Template para todas as atividades feitas em aula da disciplina de Informática.
 # PROVA A2- 26/06/2025
 > Alicativo com dados sobre Metadados de produção de óleo e gás
 
--Prompt:
+- **Prompt:**
+
 ![image](https://github.com/user-attachments/assets/df159643-497d-471c-a90b-80faa4fc6f1c)
 
--Gravação e imagens do funcionamento do app:
+- **Gravação e imagens do funcionamento do app:**
 
 ![image](https://github.com/user-attachments/assets/b6c64d1e-1280-4038-96cd-8af838c5e6b6)
 ![image](https://github.com/user-attachments/assets/96257a9a-c6e6-4bad-97b6-d83cfb1723ee)
