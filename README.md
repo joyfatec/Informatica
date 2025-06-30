@@ -1,18 +1,19 @@
-joyce # Informatica
+# Informatica
+Template para todas as atividades feitas em aula da disciplina de Informática.
 
-#1 Software de apresentação
+# 1 Software de apresentação
 >Proposta da atividade: Se juntar aos colegas e preparar uma apresentação em slides sobre si mesmo para a sala, apresentando 3 tópicos diferentes.
 - Essa atividade foi feita com mais 4 alunos do primeiro semestre de GPI.
 
 ![image](https://github.com/user-attachments/assets/d240b1d7-90e2-40ba-b243-e2589dd64567)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#2 Planilha de gastos
+# 2 Planilha de gastos
 >Proposta da atividade: Montar uma planilha dos principais gastos que temos em casa.
 - Essa atividade foi feita durante a aula com o aluno Matheus Amaral Costa.
 
 ![image](https://github.com/user-attachments/assets/8ca2ba10-9331-499a-896d-5fc2319b2904)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#3 Usando fórmulas e dados abertos
+# 3 Usando fórmulas e dados abertos
 >Proposta da atividade: Montar um Dashboard com dados abertos, montando graficos diferentes.
 - Essa atividade foi feita em conjunto com a aluna Maria Eduarda Silva Nascimento e foi entregue pelo teams dela com o nome das duas alunas.
 
@@ -20,7 +21,7 @@ joyce # Informatica
 
 ![image](https://github.com/user-attachments/assets/3aee0799-3510-4c97-85ff-7fd306097606)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#4 Planilha Excel
+# 4 Planilha Excel
 >Proposta da atividade: Montar uma planilha no ecxel apartir de um link, oferecido pela professor no enunciado da terefa no teams, escolhido pelas alunas para usar de base para o Power BI na proxima atividade.
 - Essa atividade foi feita em conjunto com a aluna Maria Eduarda Silva Nascimento, e foi entrege junto do power bi pelo teams da colega
 
@@ -28,7 +29,7 @@ joyce # Informatica
 
 ![image](https://github.com/user-attachments/assets/2620c6c0-ac50-434c-a884-cf9b6174b660)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#5 Power BI ATV2 com a Maria Eduarda
+# 5 Power BI ATV2 com a Maria Eduarda
 >Proposta da atividade: Montar um Dashboard de dados abertos no Power BI usqando como base a atividade no ecxel anterior e desenvolver algumas perguntar sobre o assunto do link escolhido montando graficos para responder a elas.
 - Essa atividade foi feita em conjunto com a aula Maria Eduarda Silva Nascimento e foi entregue pelo teams dela com o nome das duas alunas.
 
@@ -36,7 +37,7 @@ joyce # Informatica
 
 ![image](https://github.com/user-attachments/assets/71fda173-e974-4280-afed-cddcf1526173)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#6 Regressão linear: Excel e Machine Learning
+# 6 Regressão linear: Excel e Machine Learning
 >Proposta da atividade: Desenvolver e aplicar a Regressão Linear com os dados fornecidos nos link enviados pela professora utilizando as ferramentas Ecxel e Linguagem Python no Google Colab.
 - Essa atividade foi feita durante a aula com o auxilio da professora para atender todas os pontos pedidos por ela.
 
@@ -54,7 +55,7 @@ joyce # Informatica
 
 [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=_6OGqCMJu00L)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#7 Power Automate e Power Apps
+# 7 Power Automate e Power Apps
 >Proposta da atividade: Elaborar um aplicativo, usando o Power Apps, por meio do qual seja possível cadastrar CLIENTE, FORNECEDOR  e ORDEM DE PRODUÇÃO, de acordo com o link disponibilizado pela professora.
 - Essa atividade foi feita durante as aulas apartir da explicação da professora e seus vídeos gravados para o auxilio do desenvolvimento da atividade.
 
@@ -62,7 +63,7 @@ joyce # Informatica
 
 [Link do Aplicativo](https://apps.powerapps.com/play/e/5ad9ca69-6a4e-ec7e-8e88-bd3c6254c0e4/a/612fc43e-365a-444c-a38d-c9b1e0c6b644?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=0ad79be2-263f-4ba3-b22c-22283f5484cf&sourcetime=1749594152127)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#PROVA A2- 26/06/2025
+# PROVA A2- 26/06/2025
 > Alicativo com dados sobre Metadados de produção de óleo e gás
 
 -Prompt:
