@@ -64,7 +64,7 @@ Template para todas as atividades feitas em aula da disciplina de Informática.
 [Link do Aplicativo](https://apps.powerapps.com/play/e/5ad9ca69-6a4e-ec7e-8e88-bd3c6254c0e4/a/612fc43e-365a-444c-a38d-c9b1e0c6b644?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=0ad79be2-263f-4ba3-b22c-22283f5484cf&sourcetime=1749594152127)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # PROVA A2- 26/06/2025
-> Alicativo com dados sobre Metadados de produção de óleo e gás
+> Alicativo com dados sobre Metadados de produção de óleo e gás.
 
 - **Prompt:**
 
@@ -78,4 +78,17 @@ Template para todas as atividades feitas em aula da disciplina de Informática.
 ![image](https://github.com/user-attachments/assets/ddbe7cb3-5979-467d-b164-0fded385b431)
 
 [Gravando 2025-06-26 210641.zip](https://github.com/user-attachments/files/20935427/Gravando.2025-06-26.210641.zip)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+# PROVA SUB- 03/07/2025
+> Responder a perguntas so arquivo e constuir um dashboard.
+
+1. Qual é o somatório de salários por Unidade de  Exercício?
+
+2. Quantos servidores ativos existem em cada Unidade de Exercício?
+
+3. Quantos cargos diferentes são mostrados?
+
+4. Quantos órgãos de exercício diferentes são mostrados?
+
+5. Construa um dashboard com, no mínimo, 2 visualizações.
 
